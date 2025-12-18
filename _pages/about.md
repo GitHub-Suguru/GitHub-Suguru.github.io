@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-** About Me **
+About Me
+======
 I was born and raised in Gunma Prefecture, a countryside region of Japan surrounded by mountains and open landscapes. Growing up, I was more inclined toward physical activity than academics, spending much of my time in competitive motorsports and swimming. At that stage, my interests were driven more by motion, speed, and coordination than by equations or theory.
 
 During high school, my perspective began to shift. I encountered the manga Space Brothers, which introduced me to the human side of space exploration—the perseverance, teamwork, and long-term dedication required to pursue ambitious goals such as becoming an astronaut. Around the same time, I was given the opportunity to visit NASA’s Kennedy Space Center, where I listened to engineers and astronauts describe their work and entered the Vehicle Assembly Building (VAB). Standing inside the VAB and witnessing the sheer scale of the structure left a lasting impression. I was astonished that human beings could design, assemble, and launch such massive systems into space with precision and reliability. That experience solidified my decision to study aerospace engineering and ultimately pursue my education in the United States.
