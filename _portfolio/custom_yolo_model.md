@@ -6,4 +6,16 @@ permalink: /portfolio/custom_yolo_model/
 date: 2025-12-21
 ---
 
-Description here ...
+## Summary
+
+
+## What I build / contributed
+
+
+## Methods
+
+
+## Results
+
+
+## Links
