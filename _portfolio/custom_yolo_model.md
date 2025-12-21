@@ -5,5 +5,7 @@ collection: portfolio
 permalink: /portfolio/custom_yolo_model/
 date: 2025-12-21
 header:
-  teaser: 
+  teaser: /images/profile.png
 ---
+
+Description here ...
