@@ -1,1 +1,9 @@
+---
+title: "Off-the-shelf Webcam-Based Easy Custom Mocap from Scratch"
+excerpt: "Complete step-by-step description of off-the-shelf webcam-based custom mocap system suitable for MAV and UGV applications. <br/><img src='/images/500x300.png'>"
+collection: portfolio
+permalink: /portfolio/easy_custom_mocap/
+date: 2025-12-21
+---
 
+Description here ...
