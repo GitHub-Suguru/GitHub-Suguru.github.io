@@ -1,14 +1,24 @@
 ---
-title: "Paper Title Number 3"
+title: "Modeling and Simulation of Virtual Rigid Body Formations and Their Applications Using Multiple Air Vehicles"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: conferences
+permalink: /publication/2024-01-04-AIAA2024-2016
+excerpt: 'Virtual Rigid Body (VRB) formation flying framework for UAV swarms. This concept is inspired by how inter-agent distances are kept constant within a rigid body, eliminating the need for intra-formation collision aovoidance'
+date: 2023-06-08
+venue: 'AIAA AVIATION 2023 Forum'
+slidesurl: 
+paperurl:
+bibtexurl: 
+citation: 'George A. Alcorn, Suguru Sato, Cody Harris and Bernd Chudoba. "Benchmark Study of Charles Lindbergh’s Transatlantic Flight in Supersonic and Hypersonic Speed Regimes," AIAA 2023-3232. AIAA AVIATION 2023 Forum. June 2023'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+## Link to the Paper
+- [Publisher version (AIAA)](https://arc.aiaa.org/doi/10.2514/6.2023-3232)
+
+## Abstract
+
+
+## Contribution
+
+
+## Citation
