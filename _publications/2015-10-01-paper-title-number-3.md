@@ -14,6 +14,7 @@ citation: 'Suguru Sato and Kamesh Subbarao. "Modeling and Simulation of Virtual 
 
 ## Link to the Paper
 - [Publisher version (AIAA)](https://arc.aiaa.org/doi/10.2514/6.2024-2016)
+- [Archive (arXiv)](https://doi.org/10.48550/arXiv.2601.11788)
 
 ## Abstract
 This paper presents thorough mathematical modeling, control law development, and simulation of virtual structure formations which are inspired by the characteristics of rigid bodies. The stable constraint forces that establish the rigidity in the formation are synthesized by utilizing d'Alembert's principle of virtual work, constraint sensitivities (Lagrange multipliers) and constraint stabilization using Baumgarte stabilization. The governing equations of motion of a multiagent system are derived via Newton's and Euler's equations to include these constraint forces and to enable inputs regarding the formation as if it were an independent rigid body. The performance of this framework is evaluated under multiple cases including waypoint following missions, and using different number of agents.
