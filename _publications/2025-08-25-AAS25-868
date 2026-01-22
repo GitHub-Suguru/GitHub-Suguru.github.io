@@ -1,0 +1,24 @@
+---
+title: "Optimal Thruster Configuration for 6-DOF Control of a Small Satellite"
+collection: publications
+category: conferences
+permalink: /publication/2025-08-15-AAS25-868
+excerpt: 'Study of thruster number reduction for small satellites, identifying viable number of thrusters and their layouts that maintain full six-degree-of-freedom orbit and attitude control while minimizing total thrust requirements. The proposed configurations are validated through a rendezvous-docking mission, demonstrating adequate attitude control performance despite reduced thruster counts.'
+date: 2025-08-15
+venue: '2025 AAS/AIAA Astrodynamic Specialist Conference'
+slidesurl: 
+paperurl: 
+bibtexurl: 
+citation: 'Suguru Sato, Jinaykumar Patel, and Kamesh Subbarao, "Optimal Thruster Configuration for 6-DOF Control of a Small Satellite," AAS 25-868. <i>2025 AAS/AIAA Astrodynamic Specialist Conference</i>. August 2025'
+---
+
+## Link to the Paper
+- [Archive (arXiv)](https://www.arxiv.org/abs/2601.11802)
+
+## Abstract
+With the growing deployment of small satellites (such as CubeSats, Nanosats, Picosats, and Femtosats) in Low Earth Orbit (LEO) for targeted applications like imaging, communication, data storage, and rendezvous-docking mission, there is increasing attention on orbit maintenance and attitude control. A common approach for active orbit control involves the use of multiple thrusters, which, when properly arranged, can also generate the required torque for attitude control. Starting from a 24-thruster configuration, this paper presents a set of thruster configurations (referred to as a viable configuration group) that enable full six degrees of freedom (6-DOF) control. Further, configuration group that requires minimum total thrust to achieve 6-DOF commands are found among the viable configuration group. One configuration from each of these groups is further evaluated for its attitude control performance through a representative rendezvous-docking mission, demonstrating that even with a reduced thruster count, sufficient maneuverability can be achieved. 
+
+## Contribution
+This paper presents a systematic framework for optimizing thruster configurations that achieve full six-degree-of-freedom control for small satellites using unidirectional thrusters. Starting from a fully redundant 24-thruster layout, the method identifies viable configurations, verifies the theoretical minimum of seven thrusters for 6-DOF controllability, and demonstrates that a 12-thruster configuration provides the optimal balance between control authority and thrust efficiency. The configurations are validated in a full 6-DOF rendezvous-and-docking mission using a model predictive control framework, showing significant reductions in docking time and propellant usage compared to minimal designs.
+
+## Supplemental Material
