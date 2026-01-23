@@ -1,6 +1,6 @@
 ---
 title: "Modeling and Simulation of Virtual Rigid Body Formations and their applications using Multiple Air Vehicles"
-excerpt: "Multi-UAV VRB formation simulations. [Publisher Page](https://doi.org/10.2514/6.2024-2016) [Archive](https://doi.org/10.48550/arXiv.2601.11788)"
+excerpt: "A physics-informed multi-UAV formation framework that enforces rigid-body behavior through stabilizing inter-agent constraints. | [Publisher Page](https://doi.org/10.2514/6.2024-2016) | [Archive](https://doi.org/10.48550/arXiv.2601.11788)"
 collection: portfolio
 permalink: /portfolio/vrb_formation/
 date: 2024-01-04
@@ -8,6 +8,8 @@ date: 2024-01-04
 
 ## Summary
 This project presents a **physics-informed Virtual Rigid Body (VRB) formation control framework** for coordinating multiple UAVs by enforcing rigid-body–like distance constraints among agents. By modeling a UAV formation as a virtual rigid structure, the framework enables coordinated translation, rotation, reconfiguration, and station keeping without explicit leader–follower hierarchies or preplanned individual trajectories. The approach is validated through extensive MATLAB/Simulink simulations across single- and multi-waypoint missions with formations ranging from three to eight UAVs.
+
+
 
 ## What I build / contributed
 I designed and implemented the entire VRB formation control framework, including:
