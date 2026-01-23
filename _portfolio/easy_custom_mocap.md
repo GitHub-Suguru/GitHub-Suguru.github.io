@@ -1,6 +1,6 @@
 ---
 title: "Off-the-shelf Webcam-Based Easy Custom Mocap from Scratch"
-excerpt: "Complete step-by-step description of off-the-shelf webcam-based custom motion capture system suitable for MAV and UGV applications."
+excerpt: "Complete step-by-step description of off-the-shelf webcam-based custom motion capture system suitable for MAV and UGV applications. | [Archive]"
 collection: portfolio
 permalink: /portfolio/easy_custom_mocap/
 date: 2025-05-03
