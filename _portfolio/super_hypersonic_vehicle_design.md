@@ -1,6 +1,6 @@
 ---
 title: "Benchmark Study of Charles Lindbergh's Transatlantic Flight in Supersonic and Hypersonic Speed Regimes"
-excerpt: "Designs of supersonic and hypersonic tech demonstrators for transatlantic flight inspired by Charles Lindbergh's first ever transatlnantic flight. <br/><img src='/images/Mach3_vehicle.png'>"
+excerpt: "Designs of supersonic and hypersonic tech demonstrators for transatlantic flight inspired by Charles Lindbergh's first ever transatlnantic flight. <br/><img src='/images/combined_pics.png'>"
 collection: portfolio
 permalink: /portfolio/supersonic_hypersonic_demonstrator/
 date: 2023-06-08
@@ -9,7 +9,7 @@ date: 2023-06-08
 ## Summary
 This project presents a conceptual benchmark study of supersonic and hypersonic airbreathing vehicles capable of completing Charles Lindbergh’s historic transatlantic flight at cruise speeds ranging from Mach 2 to Mach 7. Using a unified parametric sizing methodology based on Hypersonic Convergence, six minimum-capability demonstrator vehicles were synthesized to investigate how key aircraft design parameters scale with cruise Mach number. The study provides quantitative correlations between Mach number and vehicle size, weight, volume, and slenderness, offering physically grounded starting points for future high-speed aircraft conceptual design.
 
-<br/><img src='/images/Mach3_vehicle.png'>
+<br/><img src='/images/combined_pics.png'>
 
 ## What I build / contributed
 I served as **Chief Engineer and Synthesis Lead**, responsible for integrating multidisciplinary analyses into a unified conceptual design framework. My primary contributions included:
