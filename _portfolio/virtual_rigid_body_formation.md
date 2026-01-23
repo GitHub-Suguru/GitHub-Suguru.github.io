@@ -9,7 +9,10 @@ date: 2024-01-04
 ## Summary
 This project presents a **physics-informed Virtual Rigid Body (VRB) formation control framework** for coordinating multiple UAVs by enforcing rigid-body–like distance constraints among agents. By modeling a UAV formation as a virtual rigid structure, the framework enables coordinated translation, rotation, reconfiguration, and station keeping without explicit leader–follower hierarchies or preplanned individual trajectories. The approach is validated through extensive MATLAB/Simulink simulations across single- and multi-waypoint missions with formations ranging from three to eight UAVs.
 
-
+<p align="center">
+  <img src="/images/eight_establishment.png" width="60%"><br>
+  <em>Figure 1.</em> Eight-agent swarm cubic formation establishment.
+</p>
 
 ## What I build / contributed
 I designed and implemented the entire VRB formation control framework, including:
@@ -25,6 +28,21 @@ I designed and implemented the entire VRB formation control framework, including
 - Integrating **LQR-based local trajectory tracking controllers** for each agent.
 - Building a **MATLAB/Simulink simulation pipeline** to validate formation establishment, reconfiguration, reorientation, and waypoint tracking.
 - Performing scalability studies for formations of **2–8 UAVs** with varying geometries (scalable to more agents).
+
+<p align="center">
+  <img src="/images/four_agents.png" width="60%"><br>
+  <em>Figure 2.</em> Four-agent swarm square formation establishment.
+</p>
+
+<p align="center">
+  <img src="/images/five_agents.png" width="60%"><br>
+  <em>Figure 3.</em> Five-agent swarm pyramid formation establishment.
+</p>
+
+<p align="center">
+  <img src="/images/six_agents.png" width="60%"><br>
+  <em>Figure 4.</em> Six-agent swarm hexagon formation establishment.
+</p>
 
 ## Methods
 - The framework models a UAV formation as a **Virtual Rigid Body** by enforcing a minimal set of inter-agent distance constraints (3N–6 for N agents in 3D space). Constraint forces are synthesized using **constraint Jacobians and Lagrange multipliers**, ensuring that relative distances converge asymptotically to their desired values.
@@ -42,4 +60,21 @@ I designed and implemented the entire VRB formation control framework, including
   - Continuous enforcement of inter-agent distance constraints
 - Verified scalability with increased number of agents with stable performance despite changes in formation inertia during reconfiguration.
 
+<p align="center">
+  <img src="/images/three_linear.png" width="60%"><br>
+  <em>Figure 5.</em> Three-agent triangle to linear to triangle formation reconfiguration.
+</p>
+
+<p align="center">
+  <img src="/images/eight_linear.png" width="60%"><br>
+  <em>Figure 6.</em> Eight-agent cubic formation with formation reorientation.
+</p>
+
+<p align="center">
+  <img src="/images/eight_env.png" width="60%"><br>
+  <em>Figure 7.</em> Eight-agent swarm operation within a cluttered environment.
+</p>
+
 ## Links
+[Publisher Page](https://doi.org/10.2514/6.2024-2016) 
+[Archive](https://doi.org/10.48550/arXiv.2601.11788)
