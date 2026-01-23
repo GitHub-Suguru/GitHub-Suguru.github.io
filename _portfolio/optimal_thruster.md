@@ -92,4 +92,4 @@ I developed the end-to-end thruster configuration optimization and control frame
 
 ## Links
 [Publisher Page]
-[Archive](https://doi.org/10.48550/arXiv.2601.11802
+[Archive](https://doi.org/10.48550/arXiv.2601.11802)
