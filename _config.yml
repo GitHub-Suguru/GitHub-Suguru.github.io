@@ -26,7 +26,10 @@ author:
   avatar           : "profile_picture.png"
   name             : "Suguru Sato"
   pronouns         : # example: "she/her"  
-  bio              : "The University of Texas at Arlington; Aerospace Engineering Ph.D. Student; Graduate Research Assistant"
+  bio              : 
+  - "The University of Texas at Arlington"
+  - "Aerospace Engineering Ph.D. Student"
+  - "Graduate Research Assistant"
   location         : "Arlington, TX"
   employer         : "The University of Texas at Arlington"
   uri              : # URL
