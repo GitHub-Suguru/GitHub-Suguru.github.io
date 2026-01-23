@@ -44,7 +44,7 @@ All steps are modular, allowing the pipeline to be adapted for different dataset
   - **Precision $$ \approx 1.0 $$**
   - **Recall $$ \approx 0.95 $$**
 - Demonstrated **real-time inference capability**:
-  - $$ \tilde $$ 20–70 FPS on CPU (hardware dependent)
+  - ~ 20–70 FPS on CPU (hardware dependent)
   - Higher performance on GPU-enabled systems
 - Successfully validated the trained model on:
   - Static images
