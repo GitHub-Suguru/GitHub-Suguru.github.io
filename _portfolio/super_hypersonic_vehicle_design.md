@@ -20,7 +20,7 @@ I served as **Chief Engineer and Synthesis Lead**, responsible for integrating m
 - Co-authoring the technical documentation and figures used in the final paper.
 
 ## Methods
-The study employed a "parametric (preliminary) sizing process derived from Hypersonic Convergence", a multidisciplinary conceptual design methodology that simultaneously enforces weight and volume closure, a critical requirement for high-speed vehicles with large fuel fractions.
+The study employed a **parametric (preliminary) sizing process derived from Hypersonic Convergence**, a multidisciplinary conceptual design methodology that simultaneously enforces weight and volume closure, a critical requirement for high-speed vehicles with large fuel fractions.
 
 Key methodological elements included:
 - **Mission definition based on Lindbergh’s transatlantic flight** ($$ \approx 6,000 $$ km range, single pilot, minimal payload).
