@@ -75,18 +75,23 @@ The proposed system follows a multi-stage estimation pipeline combining geometri
 - Identified clear paths for future improvement, including automated calibration, IMU fusion, and multi-object tracking.
 
 <p align="center">
+  <img src="/images/camera_view_cam12.jpg" width="80%"><br>
+  <em>Figure 7.</em> IR active marker detection and epipolar lines (red lines) to solve the correspondance problem.
+</p>
+
+<p align="center">
   <img src="/images/mocap_raw_data.png" width="40%"><br>
-  <em>Figure 6.</em> Position estimation through Kalman Filtering.
+  <em>Figure 8.</em> Position estimation through Kalman Filtering.
 </p>
 
 <p align="center">
   <img src="/images/kf.png" width="40%"><br>
-  <em>Figure 7.</em> Position estimation through Kalman Filtering.
+  <em>Figure 9.</em> Position estimation through Kalman Filtering.
 </p>
 
 <p align="center">
   <img src="/images/ukf.png" width="40%"><br>
-  <em>Figure 8.</em> Position estimation through Unscented Kalman Filtering.
+  <em>Figure 10.</em> Position estimation through Unscented Kalman Filtering.
 </p>
 
 ## Links
