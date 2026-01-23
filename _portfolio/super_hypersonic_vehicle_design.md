@@ -9,6 +9,8 @@ date: 2023-06-08
 ## Summary
 This project presents a conceptual benchmark study of supersonic and hypersonic airbreathing vehicles capable of completing Charles Lindbergh’s historic transatlantic flight at cruise speeds ranging from Mach 2 to Mach 7. Using a unified parametric sizing methodology based on Hypersonic Convergence, six minimum-capability demonstrator vehicles were synthesized to investigate how key aircraft design parameters scale with cruise Mach number. The study provides quantitative correlations between Mach number and vehicle size, weight, volume, and slenderness, offering physically grounded starting points for future high-speed aircraft conceptual design.
 
+<br/><img src='/images/Mach3_vehicle.png'>
+
 ## What I build / contributed
 I served as **Chief Engineer and Synthesis Lead**, responsible for integrating multidisciplinary analyses into a unified conceptual design framework. My primary contributions included:
 - Leading the **overall system-level synthesis** of geometry, propulsion, aerodynamics, structures, and mission performance across Mach 2–7 vehicles.
@@ -40,3 +42,4 @@ Key methodological elements included:
 - The resulting Mach-scaling trends provide **physically interpretable correlations** that can be reused as starting estimates in future high-speed conceptual design studies.
 
 ## Links
+- [Publisher Page](https://doi.org/10.2514/6.2023-3232)
