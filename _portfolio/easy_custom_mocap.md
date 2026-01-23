@@ -25,16 +25,17 @@ The proposed system follows a multi-stage estimation pipeline combining geometri
 - Hardware setup:
   - Four calibrated webcams with IR-pass filtering.
   - Active IR LED markers mounted in known configurations on the vehicle.
+
+<p align="center">
+  <img src="/images/crazyFlie_iso.jpg" width="25%"><br>
+  <em>Figure 2.</em> Modified CrazyFlie micro drone with active IR-marker for motion capturing  
+</p>
+
   - Off-the-shelf tripods and USB infrastructure to minimize cost and complexity.
  
 <p align="center">
-  <img src="/images/env_config.png" width="40%"><br>
+  <img src="/images/env_config.png" width="30%"><br>
   <em>Figure 1.</em> Environment configuraiton.
-</p>
-
-<p align="center">
-  <img src="/images/crazyFlie_iso.jpg"><br>
-  <em>Figure 2.</em> Modified CrazyFlie micro drone with active IR-marker for motion capturing  
 </p>
 
 - Camera modeling and geometry:
@@ -59,7 +60,7 @@ The proposed system follows a multi-stage estimation pipeline combining geometri
   - Python and OpenCV for real-time image processing and estimation.
  
 <p align="center">
-  <img src="/images/python_env.jpg" width="50%"><br>
+  <img src="/images/python_env.jpg" width="40%"><br>
   <em>Figure 4.</em> Python environment.
 </p>
 
