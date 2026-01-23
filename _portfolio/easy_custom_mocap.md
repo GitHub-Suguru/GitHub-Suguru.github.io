@@ -22,46 +22,47 @@ I independently designed, implemented, and experimentally validated the complete
 
 ## Methods
 The proposed system follows a multi-stage estimation pipeline combining geometric reconstruction and stochastic filtering:
-- Hardware setup:
+- **Hardware setup**:
   - Four calibrated webcams with IR-pass filtering.
   - Active IR LED markers mounted in known configurations on the vehicle.
-
+  - Off-the-shelf tripods and USB infrastructure to minimize cost and complexity.
+<p align="center">
+  <img src="/images/camera_open.png" width="25%"><br>
+  <em>Figure 1.</em> Webcam with IR-pass filter (floppy disk film) - camera open configuration for calibration
+</p>
 <p align="center">
   <img src="/images/crazyFlie_iso.jpg" width="25%"><br>
   <em>Figure 2.</em> Modified CrazyFlie micro drone with active IR-marker for motion capturing  
 </p>
-
-  - Off-the-shelf tripods and USB infrastructure to minimize cost and complexity.
- 
 <p align="center">
   <img src="/images/env_config.png" width="30%"><br>
-  <em>Figure 1.</em> Environment configuraiton.
+  <em>Figure 3.</em> Environment configuraiton.
 </p>
 
-- Camera modeling and geometry:
+- **Camera modeling and geometry**:
   - Intrinsic and extrinsic calibration using MATLAB’s camera calibration toolbox.
   - Projection modeling and epipolar geometry to resolve multi-camera correspondence.
-- Triangulation and fusion:
-  - Independent triangulation from each camera pair.
+
+- **Triangulation and fusion**:
+  - Independent triangulation from each camera pair using epipolar line.
   - Depth-dependent accuracy analysis using reprojection error models.
   - Weighted least squares fusion to optimally combine triangulated position estimates.
-
- <p align="center">
+<p align="center">
   <img src="/images/cam_diagram.png" width="40%"><br>
-  <em>Figure 3.</em> Multi-camera geometry and triangulation schematic.
+  <em>Figure 4.</em> Multi-camera geometry and triangulation schematic.
 </p>
-  
-- State estimation:
+    
+- **State estimation**:
   - Constant velocity model to increase the generalizability of the system.
   - Kalman filtering for noise suppression and state prediction.
   - Unscented Kalman filtering to handle nonlinearities and marker occlusion.
-- Software stack:
+ 
+- **Software stack**:
   - MATLAB for calibration and parameter extraction.
   - Python and OpenCV for real-time image processing and estimation.
- 
 <p align="center">
   <img src="/images/python_env.jpg" width="40%"><br>
-  <em>Figure 4.</em> Python environment.
+  <em>Figure 5.</em> Python environment.
 </p>
 
 ## Results
@@ -72,5 +73,15 @@ The proposed system follows a multi-stage estimation pipeline combining geometri
   - UKF outperformed standard KF, maintaining better trajectory continuity during temporary measurement loss.
 - Validated the system experimentally using real flight data from a CrazyFlie micro drone, confirming suitability for real-world UVS testing (still need improvement).
 - Identified clear paths for future improvement, including automated calibration, IMU fusion, and multi-object tracking.
+
+<p align="center">
+  <img src="/images/kf.png" width="40%"><br>
+  <em>Figure 6.</em> Position estimation through Kalman Filtering.
+</p>
+
+<p align="center">
+  <img src="/images/ukf.png" width="40%"><br>
+  <em>Figure 7.</em> Position estimation through Unscented Kalman Filtering.
+</p>
 
 ## Links
