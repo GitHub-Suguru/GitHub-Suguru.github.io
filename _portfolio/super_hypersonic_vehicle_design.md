@@ -1,6 +1,6 @@
 ---
 title: "Benchmark Study of Charles Lindbergh's Transatlantic Flight in Supersonic and Hypersonic Speed Regimes"
-excerpt: "Designs of supersonic and hypersonic tech demonstrators for transatlantic flight inspired by Charles Lindbergh's first ever transatlnantic flight. [Publisher Page](https://doi.org/10.2514/6.2023-3232)"
+excerpt: "Designs of supersonic and hypersonic tech demonstrators for transatlantic flight inspired by Charles Lindbergh's first ever transatlnantic flight. | [Publisher Page](https://doi.org/10.2514/6.2023-3232)"
 collection: portfolio
 permalink: /portfolio/supersonic_hypersonic_demonstrator/
 date: 2023-06-08
