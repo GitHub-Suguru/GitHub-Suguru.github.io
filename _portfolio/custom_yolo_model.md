@@ -9,7 +9,6 @@ date: 2025-07-25
 ## Summary
 This project provides a complete, beginner-friendly pipeline for training, validating, and deploying a custom YOLOv8 object detection model using the Ultralytics framework in Python. Starting from raw image collection, the repository walks through dataset preparation, annotation, model fine-tuning, and evaluation, with a focus on practical usability and reproducibility. While demonstrated on a single-class object (e.g., a rover), the workflow is fully extensible to multi-class detection tasks and real-world robotics and perception applications. The similar process can be applied for the new versions of YOLO.
 
-<br/><img src='/images/val_batch0_pred.jpg'>
 
 ## What I build / contributed
 I designed and implemented the **entire end-to-end training and deployment workflow**, including:
@@ -51,5 +50,10 @@ All steps are modular, allowing the pipeline to be adapted for different dataset
   - Prerecorded videos
   - Live camera streams
 - Produced a **reproducible, extensible reference implementation** suitable for robotics perception, autonomous systems, and research prototyping.
+
+<p align="center">
+  <img src="/images/val_batch0_pred.jpg" width="60%"><br>
+  <em>Figure 1.</em> Validation results.
+</p>
 
 ## Links
