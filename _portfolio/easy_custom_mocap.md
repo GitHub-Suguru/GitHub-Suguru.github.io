@@ -81,12 +81,12 @@ The proposed system follows a multi-stage estimation pipeline combining geometri
 
 <p align="center">
   <img src="/images/kf.png" width="40%"><br>
-  <em>Figure 6.</em> Position estimation through Kalman Filtering.
+  <em>Figure 7.</em> Position estimation through Kalman Filtering.
 </p>
 
 <p align="center">
   <img src="/images/ukf.png" width="40%"><br>
-  <em>Figure 7.</em> Position estimation through Unscented Kalman Filtering.
+  <em>Figure 8.</em> Position estimation through Unscented Kalman Filtering.
 </p>
 
 ## Links
