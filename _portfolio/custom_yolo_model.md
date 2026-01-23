@@ -1,6 +1,6 @@
 ---
 title: "Custom YOLOv8 Model Training and Deployment"
-excerpt: "Complete step-by-step description of custom YOLOv8 model training and deployment."
+excerpt: "Complete step-by-step description of custom YOLOv8 model training and deployment. [Repository Link](https://github.com/GitHub-Suguru/yolov8_custom_model.git)"
 collection: portfolio
 permalink: /portfolio/custom_yolo_model/
 date: 2025-07-25
@@ -57,3 +57,4 @@ All steps are modular, allowing the pipeline to be adapted for different dataset
 </p>
 
 ## Links
+[Repository Link](https://github.com/GitHub-Suguru/yolov8_custom_model.git)
