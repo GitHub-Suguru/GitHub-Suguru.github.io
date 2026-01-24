@@ -11,26 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Aerospace Engineering, University of Texas at Arlington, 2027 (expected)
+* M.Sc. in Aerospace Engineering, University of Texas at Arlington, 2023
+* B.Sc. in Aerospace Engineering, University of Texas at Arlington, 2022
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2026: Graduate Research Assistant
+* Summer 2025, Summer 2024, Summer 2023: Research Assistant
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Teaching experience
+=====
+* Fall 2025:
+  * MAE 1106 - Introduction to Aerospace Engineering
+* Spring 2025:
+  * AE 5362 - Guidance, Navigation, and Control
+  * AE 5303 - Control Systems Analysis and Synthesis
+* Fall 2024:
+  * MAE 3405 - Flight Dynamics
+* Spring 2024:
+  * MAE 3405 - Flight Dynamics
+* Fall 2023:
+  * MAE 3405 - Flight Dynamics
+  * MAE 1106 - Introduction to Aerospace Engineering
+* Spring 2023:
+  * MAE 3405 - Flight Dynamics
+  * MAE 1106 - Introduction to Aerospace Engineering
+* Fall 2022:
+  * MAE 3405 - Flight Dynamics
   
 Skills
 ======
