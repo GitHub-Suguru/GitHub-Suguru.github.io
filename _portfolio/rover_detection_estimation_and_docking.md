@@ -11,6 +11,26 @@ This project presents a **vision-guided autonomy framework for tracking and land
 
 The framework is developed and validated in a **high-fidelity ROS2–Gazebo simulation environment** to be demonstrated at the UTA Research Institute MAVRC grand opening ceremony.
 
+<p align="center">
+  <img src="/images/yolo_snap1.png" width="50%"><br>
+  <em>Figure 1.</em> Docking simulation snapshot 2: Custom YOLO-based rover detection as the tag is too far to be detected.
+</p>
+
+<p align="center">
+  <img src="/images/yolo_snap2.png" width="50%"><br>
+  <em>Figure 2.</em> Snapshot 2: Custom YOLO-based rover detection for the same reason as above.
+</p>
+
+<p align="center">
+  <img src="/images/tag_snap3.png" width="50%"><br>
+  <em>Figure 3.</em> Snapshot 3: Tag starts getting detected and provides better target position estimation.
+</p>
+
+<p align="center">
+  <img src="/images/landed.png" width="50%"><br>
+  <em>Figure 4.</em> Snapshot 4: Drone landed on the rover successfully.
+</p>
+
 ## What I build / contributed
 I designed and implemented the end-to-end perception–planning–control pipeline, including:
 - Developing **vision-based moving target detection and tracking**, using both:
