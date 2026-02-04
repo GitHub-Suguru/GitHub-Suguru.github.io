@@ -21,10 +21,13 @@ I designed and implemented the **learning-enabled VRB reconfiguration framework*
 - Building a **simulation-ready pipeline** compatible with future integration of UAV dynamics, MPC-based safety layers, and ROS2–PX4 workflows.
 - Laying the groundwork for **safe RL–MPC hybrid autonomy**, where learning enhances decision-making while model-based control enforces stability and constraint satisfaction.
 
-## Methods
+## Why this matters
+- **Real environments are constrained and unpredictable**, making fixed UAV formation strategies brittle and difficult to scale.
+- This work enables **intelligent, environment-aware formation reconfiguration** by integrating reinforcement learning with the Virtual Rigid Body framework.
+- The approach learns when and how to adapt formations, balancing **efficiency, collision avoidance, and formation stability** without hand-tuned rules.
+- It advances **deployable swarm autonomy**, bridging learning-based adaptability with structured, model-compatible control architectures.
 
-
-## Results
+## Current status and outlook
 
 
 ## Links
