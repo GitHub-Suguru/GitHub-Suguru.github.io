@@ -164,10 +164,10 @@ This framework is particularly suited for:
 ## Media and Publications
 
 - 🎥 Supplemental simulation videos:  
-  https://youtu.be/QcZWW4lSVJo
+  [https://youtu.be/QcZWW4lSVJo](https://youtu.be/QcZWW4lSVJo)
 
 - 🎥 Multi-formation simulation playlist:  
-  https://www.youtube.com/playlist?list=PLX7ZK_42SnIBaYop_a6Q5GKgtBj6kfUKp
+  [https://www.youtube.com/playlist?list=PLX7ZK_42SnIBaYop_a6Q5GKgtBj6kfUKp](https://www.youtube.com/playlist?list=PLX7ZK_42SnIBaYop_a6Q5GKgtBj6kfUKp)
 
 - 📄 AIAA Conference Paper:  
   Sato & Subbarao, *Three-Dimensional Hydrodynamic Flow-Based Collision Avoidance for UAV Formations Facing Emergent Dynamic Obstacles*  
